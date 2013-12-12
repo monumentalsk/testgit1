@@ -2,4 +2,6 @@
 echo "Ahoj Adam. Podarilo sa?";
 
 echo "test test";
+
+echo "ano";
 ?>
